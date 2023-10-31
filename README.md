@@ -42,9 +42,5 @@ To run the app locally, follow these steps:
 - Incorporate user accounts for personalized settings.
 - Enhance the user interface for a more engaging experience.
 
-Your contributions and suggestions are welcome! Feel free to fork this repository and create pull requests to help improve this app.
 
-## Screenshots
-
-Here are a few screenshots of the app:
 
