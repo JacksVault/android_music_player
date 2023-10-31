@@ -21,6 +21,4 @@ class AudioChannel {
   Future fetchAllAudios() async {
     return await channel.invokeMethod(ChannelMethod.readFilesMediaStore);
   }
-
-  // TODO: Adicionar chamada ao equalizador
 }
