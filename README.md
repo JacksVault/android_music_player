@@ -48,17 +48,3 @@ Your contributions and suggestions are welcome! Feel free to fork this repositor
 
 Here are a few screenshots of the app:
 
-<table>
-  <tr>
-    <td><img alt="Home Light Mode" src="https://github.com/pedro-afk/android_music_player/blob/dev/assets/readme/home_light_mode.png"/></td>
-    <td><img alt="Home Dark Mode" src="https://github.com/pedro-afk/android_music_player/blob/dev/assets/readme/home_night_mode.png"/></td>
-  </tr>
-  <tr>
-    <td><img alt="Settings Light Mode" src="https://github.com/pedro-afk/android_music_player/blob/dev/assets/readme/settings_light_mode.png"/></td>
-    <td><img alt="Settings Dark Mode" src="https://github.com/pedro-afk/android_music_player/blob/dev/assets/readme/settings_night_mode.png"/></td>
-  </tr>  
-  <tr>
-    <td><img alt="Player Light Mode" src="https://github.com/pedro-afk/android_music_player/blob/dev/assets/readme/player_light_mode.png"/></td>
-    <td><img alt="Player Dark Mode" src="https://github.com/pedro-afk/android_music_player/blob/dev/assets/readme/player_night_mode.png"/></td>
-  </tr>
-</table>
